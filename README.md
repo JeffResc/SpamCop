@@ -3,6 +3,8 @@
 # SpamCop
 SpamCop IP Address Lookup in Node.js
 
+Also check out my [DroneBL](https://npmjs.com/package/dronebl) and [BarracudaCentral](https://npmjs.com/package/barracudacentral) packages.
+
 Example Lookup:
 
 First run ```npm install spamcop``` to install the SpamCop package to your system.
