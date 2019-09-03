@@ -1,14 +1,14 @@
 {
   "name": "spamcop",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "SpamCop IP Address Lookup",
   "main": "index.js",
   "dependencies": {
-    "request": "2.58.0"
+    "request": "2.68.0"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AlphaT3ch/SpamCop.git"
+    "url": "git+https://github.com/JeffResc/SpamCop.git"
   },
   "keywords": [
     "SpamCop",
@@ -16,11 +16,11 @@
     "dns",
     "dnsbl"
   ],
-  "author": "AlphaTech",
+  "author": "JeffResc",
   "bugs": {
-    "url": "https://github.com/AlphaT3ch/SpamCop/issues"
+    "url": "https://github.com/JeffResc/SpamCop/issues"
   },
-  "homepage": "https://github.com/AlphaT3ch/SpamCop",
+  "homepage": "https://github.com/JeffResc/SpamCop",
   "readmeFile": "README.md",
   "license": "GPL-3.0"
 }

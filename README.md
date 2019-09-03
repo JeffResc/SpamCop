@@ -21,4 +21,4 @@ SpamCop.lookup('212.227.94.244', function(res) {
 });
 ```
 
-[This Package Is Under The GPL-3.0 License](https://raw.githubusercontent.com/AlphaT3ch/SpamCop/master/LICENSE.txt)
+[This Package Is Licensed Under The GPL-3.0 License](https://raw.githubusercontent.com/AlphaT3ch/SpamCop/master/LICENSE.txt)
